@@ -47,8 +47,8 @@ The app is fully responsive and provides instant feedback for invalid inputs (e.
 
 ## Demo
 
-- [Live Site URL](https://your-live-site-url.com)
-- [Solution on Frontend Mentor](https://your-solution-url.com)
+- [Live Site URL](https://tip-calculator-pied-beta.vercel.app/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX?tab=solutions)
 
 ---
 
