@@ -90,11 +90,11 @@ body {
 
 .splitter__input_bill {
   margin-bottom: 44px;
-  background-image: url('../images/icon-dollar.svg');
+  background-image: url("../images/icon-dollar.svg");
 }
 
 .splitter__input_person {
-  background-image: url('../images/icon-person.svg');
+  background-image: url("../images/icon-person.svg");
 }
 
 .splitter__tip-list {
@@ -187,6 +187,9 @@ body {
 .splitter__result-data {
   color: var(--color-strong-cyan);
   font-size: 3rem;
+  text-align: right;
+  word-break: break-all;
+  /* font-size: clamp(2rem, 5vw, 3.5rem); */
 }
 
 .splitter__main-button {
